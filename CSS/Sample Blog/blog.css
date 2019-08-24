@@ -1,0 +1,26 @@
+body {
+	width: 60% center;
+	border: 10px solid grey;
+	margin-left: 25%;
+	margin-right: 25%;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+div {
+	padding-left: 5px;
+	margin: 5px;
+	border-bottom: 5px solid grey;
+}
+.date {
+	font-size: 18px;
+	color: #3298db;
+	padding-top: 0px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.subtitle { 
+	border-left: 3px solid grey;
+	padding: 5px;
+ }
